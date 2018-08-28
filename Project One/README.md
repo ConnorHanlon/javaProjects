@@ -4,6 +4,10 @@ Submission Date: 28 September 2017
 
 Grade: 96/100
 
+Feedback Comments:
+"Area calculation should not be done with a static variable (-1).
+Member variables should be private (-3)." -Ryan Zoeller
+
 Circle, rectangle, and triangle classes were implemented with similar methods.
 -Note: An interface was not used as at this point in the course, as the I didn't know
 about them at this point in the course. 
