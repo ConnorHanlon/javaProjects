@@ -24,20 +24,20 @@ planets and must take over all other planets before the enemy player.
 ## Project5
 Implemented a Binary Search Tree 
 
-## Acknowledgements
+## Authors
 Many of the files in projects were made by the course Professor and Teacher's Assistants
 for use and implementation by the student. The files created by Connor Hanlon are specified 
 in each of the README files for each project. If not explicitly stated authorship by Connor
 Hanlon, then the file and code was created by the following:
 
-  Instructor
+####  Instructor
 * Chad Myers
 
-  Grad TAs
+####  Grad TAs
 * Aronee Dasgupta
 * Niti Halakatti
 
-  Undergrad TAs
+####  Undergrad TAs
 * Allison Miller
 * Andrew Gilbert
 * Erica Loukusa
