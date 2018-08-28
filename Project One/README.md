@@ -8,7 +8,7 @@ about them at this point in the course.
 
 Using the shape classes, a program was written that draws fractals of said shapes.
 
-Key features immplemented in ProjectFractal:
+Key features implemented in ProjectFractal:
   * asked the user for input with shape choices 
   * draw fractal based on chosen pattern
   * compute total area of fractals and print result to screen once finished drawing
@@ -20,4 +20,6 @@ Key features immplemented in ProjectFractal:
 * ProjectFractal.java
 
 ## Key Takeaways
--to be added-
+ * Requesting information from a user with the use of Scanner
+ * Basic use of objects, methods, and stored information
+ * Reading, understanding, and using classes made by other users
